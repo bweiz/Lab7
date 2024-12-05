@@ -1,0 +1,36 @@
+Montana to Oregon             (2): Montana - Idaho - Oregon
+Montana to Vermont            (3): Montana - Idaho - Massachusetts - Vermont
+Montana to Indiana            (3): Montana - NorthDakota - Minnesota - Indiana
+Montana to Oklahoma           (3): Montana - Wyoming - Colorado - Oklahoma
+Montana to WestVirginia       (3): Montana - Wyoming - Colorado - WestVirginia
+Montana to SouthCarolina      (2): Montana - NorthDakota - SouthCarolina
+Montana to Maine              (3): Montana - Idaho - Washington - Maine
+Montana to Utah               (2): Montana - Idaho - Utah
+Montana to Washington         (2): Montana - Idaho - Washington
+Montana to Nebraska           (2): Montana - SouthDakota - Nebraska
+Montana to NewHampshire       (3): Montana - Idaho - Massachusetts - NewHampshire
+Montana to Colorado           (2): Montana - Wyoming - Colorado
+Montana to Massachusetts      (2): Montana - Idaho - Massachusetts
+Montana to Missouri           (3): Montana - SouthDakota - Iowa - Missouri
+Montana to NewYork            (3): Montana - Idaho - Massachusetts - NewYork
+Montana to Arizona            (3): Montana - Idaho - Nevada - Arizona
+Montana to Wisconsin          (2): Montana - SouthDakota - Wisconsin
+Montana to Nevada             (2): Montana - Idaho - Nevada
+Montana to RhodeIsland        (2): Montana - NorthDakota - RhodeIsland
+Montana to Minnesota          (2): Montana - NorthDakota - Minnesota
+Montana to California         (3): Montana - Idaho - Nevada - California
+Montana to Kansas             (3): Montana - SouthDakota - Nebraska - Kansas
+Montana to Delaware           (3): Montana - NorthDakota - Minnesota - Delaware
+Montana to Florida            (3): Montana - SouthDakota - Nebraska - Florida
+Montana to Michigan           (3): Montana - NorthDakota - Minnesota - Michigan
+Montana to Pennsylvania       (3): Montana - Idaho - Nevada - Pennsylvania
+Montana to NorthCarolina      (3): Montana - NorthDakota - SouthCarolina - NorthCarolina
+Montana to Iowa               (2): Montana - SouthDakota - Iowa
+Montana to Mississippi        (3): Montana - NorthDakota - RhodeIsland - Mississippi
+Montana to Illinois           (3): Montana - Idaho - Massachusetts - Illinois
+Montana to NewMexico          (3): Montana - Idaho - Oregon - NewMexico
+Montana to Connecticut        (3): Montana - Idaho - Massachusetts - Connecticut
+Montana to Louisiana          (3): Montana - Idaho - Washington - Louisiana
+Montana to Ohio               (3): Montana - Idaho - Nevada - Ohio
+Montana to Georgia            (3): Montana - NorthDakota - SouthCarolina - Georgia
+Montana to Virginia           (3): Montana - SouthDakota - Wisconsin - Virginia

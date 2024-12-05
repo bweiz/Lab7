@@ -1,0 +1,49 @@
+Alabama             : Florida Georgia Mississippi Ohio Tennessee 
+Arizona             : California Colorado Nevada NewMexico Texas Utah Virginia 
+Arkansas            : Louisiana Mississippi Missouri Oklahoma Tennessee Texas 
+California          : Arizona Nevada Oregon 
+Colorado            : Arizona Delaware Kansas Nebraska NewMexico Ohio Oklahoma Utah WestVirginia Wyoming 
+Delaware            : Colorado Maryland Minnesota Mississippi NewJersey Pennsylvania 
+Florida             : Alabama Georgia Nebraska NewYork 
+Georgia             : Alabama Florida Michigan NorthCarolina Tennessee SouthCarolina 
+Idaho               : Massachusetts Montana Nevada Oregon Utah Washington Wyoming 
+Illinois            : Indiana Iowa Kentucky Massachusetts Michigan Missouri Wisconsin 
+Indiana             : Illinois Kansas Kentucky Michigan Minnesota Ohio SouthCarolina 
+Iowa                : Illinois Minnesota Missouri Nebraska SouthDakota Wisconsin 
+Kansas              : Colorado Indiana Missouri Nebraska NewYork Oklahoma 
+Kentucky            : Illinois Indiana Missouri Ohio Tennessee Virginia WestVirginia 
+Louisiana           : Arkansas Mississippi Texas Washington Connecticut 
+Maryland            : Delaware Pennsylvania Virginia WestVirginia 
+Massachusetts       : Idaho Illinois Nevada NewYork RhodeIsland Vermont Connecticut NewHampshire 
+Michigan            : Georgia Illinois Indiana Minnesota Ohio Pennsylvania Wisconsin 
+Minnesota           : Delaware Indiana Iowa Michigan NorthDakota SouthDakota Wisconsin 
+Mississippi         : Alabama Arkansas Delaware Louisiana RhodeIsland Tennessee Wisconsin 
+Missouri            : Arkansas Illinois Iowa Kansas Kentucky Nebraska Oklahoma Tennessee 
+Montana             : Idaho NorthDakota SouthDakota Wyoming 
+Nebraska            : Colorado Florida Iowa Kansas Missouri Nevada Ohio SouthDakota Wyoming 
+Nevada              : Arizona California Idaho Massachusetts Nebraska Ohio Oregon Pennsylvania RhodeIsland Utah 
+NewJersey           : Delaware NewYork Pennsylvania Vermont 
+NewMexico           : Arizona Colorado Oklahoma Oregon Texas Utah 
+NewYork             : Florida Kansas Massachusetts NewJersey Ohio Pennsylvania RhodeIsland Vermont Connecticut 
+NorthCarolina       : Georgia Tennessee Virginia SouthCarolina 
+NorthDakota         : Minnesota Montana RhodeIsland SouthDakota SouthCarolina 
+Ohio                : Alabama Colorado Indiana Kentucky Michigan Nebraska Nevada NewYork Pennsylvania WestVirginia 
+Oklahoma            : Arkansas Colorado Kansas Missouri NewMexico Texas 
+Oregon              : California Idaho Nevada NewMexico Washington 
+Pennsylvania        : Delaware Maryland Michigan Nevada NewJersey NewYork Ohio WestVirginia 
+RhodeIsland         : Massachusetts Mississippi Nevada NewYork NorthDakota Connecticut 
+SouthDakota         : Iowa Minnesota Montana Nebraska NorthDakota Wisconsin Wyoming 
+Tennessee           : Alabama Arkansas Georgia Kentucky Mississippi Missouri NorthCarolina Virginia 
+Texas               : Arizona Arkansas Louisiana NewMexico Oklahoma Vermont 
+Utah                : Arizona Colorado Idaho Nevada NewMexico Washington Wisconsin Wyoming NewHampshire 
+Vermont             : Massachusetts NewJersey NewYork Texas NewHampshire 
+Virginia            : Arizona Kentucky Maryland NorthCarolina Tennessee WestVirginia Wisconsin 
+Washington          : Idaho Louisiana Oregon Utah Maine 
+WestVirginia        : Colorado Kentucky Maryland Ohio Pennsylvania Virginia 
+Wisconsin           : Illinois Iowa Michigan Minnesota Mississippi SouthDakota Utah Virginia 
+Wyoming             : Colorado Idaho Montana Nebraska SouthDakota Utah 
+Connecticut         : Louisiana Massachusetts NewYork RhodeIsland 
+NewHampshire        : Massachusetts Utah Vermont Maine 
+SouthCarolina       : Georgia Indiana NorthCarolina NorthDakota Maine 
+Maine               : Washington NewHampshire SouthCarolina 
+
